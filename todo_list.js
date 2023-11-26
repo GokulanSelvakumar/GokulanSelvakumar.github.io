@@ -16,7 +16,7 @@ function AddTask(){
         li.appendChild(img);
     }
     inputBox.value="";
-
+    saveData();
 }
 list_container.addEventListener("click",function(e){
     if (e.target.tagName==="LI"){

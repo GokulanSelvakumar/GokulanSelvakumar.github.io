@@ -33,7 +33,7 @@ header nav {
     justify-content: space-around;
 }
 
-#home {
+#QRCodegenerator {
     background-color: var(--black);
     border-radius: 30px;
 }
